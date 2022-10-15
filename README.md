@@ -2,12 +2,10 @@
 For our second project for CPSC 581 (Human Computer Interaction II), we were asked to:  
 Sketch, design, implement and document via a portfolio an animated touch-based and sensor based interface for a mobile phone that is an alternative to ‘slide to unlock’.  
 
-** Touch Input **
+**Touch Input**  
 Current DevLink: 
 
-Current Website Link: 
-
-
+Current Website Link:  
 
 The portfolio needs to include:
 
@@ -21,13 +19,11 @@ URL to source code if any (Glitch link, GitHub repo link, GitHub Gist, etc)
 
 
 
-** Sensor Input **
+**Sensor Input**  
 
-Source Code : 
+Source Code :  
 
-
-
-The portfolio needs to include:
+The portfolio needs to include:  
 
 Overall description  
 10 concept sketches  
