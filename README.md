@@ -11,7 +11,7 @@ Overall description:
 The portfolio needs to include:
 
 Overall description  
-~~20 concept sketches  
+20 concept sketches  
 Write-up for the concept sketches  
 20 sketches for detail  
 Write-up for detailed sketches  
