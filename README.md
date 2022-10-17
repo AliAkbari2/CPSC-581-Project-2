@@ -23,6 +23,8 @@ URL to source code if any (Glitch link, GitHub repo link, GitHub Gist, etc)
 
 **Sensor Input**  
 
+Concept Sketches and Write-up: https://docs.google.com/document/d/1j-Jj5DYYOarcN4KN5DJNwnAea7QqfaV5Ymgd1dpR_KE/edit?usp=sharing  
+
 Source Code :  
 
 The portfolio needs to include:  
