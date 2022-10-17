@@ -3,6 +3,8 @@ For our second project for CPSC 581 (Human Computer Interaction II), we were ask
 Sketch, design, implement and document via a portfolio an animated touch-based and sensor based interface for a mobile phone that is an alternative to ‘slide to unlock’.  
 
 **Touch Input**  
+
+Concept Sketches and Write-up: https://docs.google.com/document/d/1DhD1xZkL_7iO7M1fixaWaau87_Nyg8DH3IGkbAqU-2A/edit?usp=sharing  
 Current DevLink: 
 
 Current Website Link:  
