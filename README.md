@@ -12,8 +12,8 @@ Current Website Link:
 The portfolio needs to include:
 
 Overall description  
-10 concept sketches  
-Write-up for the concept sketches  
+~~10 concept sketches~~  
+~~Write-up for the concept sketches~~  
 10 sketches for detail  
 Write-up for detailed sketches  
 Video embedded in the website (e.g. YouTube, Vimeo, etc)  
