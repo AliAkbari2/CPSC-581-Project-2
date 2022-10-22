@@ -33,7 +33,7 @@ Jin Sato:
 - 10 preliminary concept sketches for the touch base.  
 - Early wirelock implementation through HTML, CSS, and JS which was not used.
 - Implementation of Wirelock.  
-- Demo video recorder, and director.
+- Demo video videographer, and director.
 
 **Overall Description**  
 Lock-Piece is an application to keep your phone secure and locked. To unlock the phone, the user will direct the character, Luffy, from the series "One Piece" through a series of rooms or locations to reach an end goal. Lock-Piece was developed in unity as a unity 2D project, where all the animations and scripts are posted in the GitHub Repository. From all the concept sketches for the sensory base we thought that Lock-Piece would provide the most security, be interactive for the user, and still manage to be unique. We tried to keep practicality in mind, and design our projects around something that would actually be used.  
@@ -67,7 +67,7 @@ Jin Sato:
 - 10 preliminary concept sketches for the touch base.  
 - Early Lock-Piece implementation through HTML, CSS, and JS which was not used.
 - Implementation of Lock-Piece.  
-- Demo video recorder, and director.
+- Demo video videographer, and director.
 
  
 
