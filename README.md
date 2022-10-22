@@ -8,7 +8,7 @@ Wirelock is an application to keep your phone secure. Wirelock utilizes an inter
 Wirelock was an idea derived from the thought of how we could make a lock screen input exciting and creative. There were many ideas our group sketched out and created, and those sketches and ideas are listed below.  
 Sketches and Write-Up For Touch Base: https://docs.google.com/document/d/1DhD1xZkL_7iO7M1fixaWaau87_Nyg8DH3IGkbAqU-2A/edit?usp=sharing  
 
-Demo: https://www.youtube.com/watch?v=y9mtUhJXLIw   
+Demo: https://www.youtube.com/watch?v=lWXEVFhDOAE    
 
 **Contribution**   
 Ali Akbari: 
