@@ -2,10 +2,10 @@ For our second project for CPSC 581 (Human Computer Interaction II), we were ask
 Sketch, design, implement and document via a portfolio an animated touch-based and sensor based interface for a mobile phone that is an alternative to ‘slide to unlock’.  
 
 **Overall Description**    
- Wirelock is an application to keep your phone secure. Wirelock utilizes an interactive touch and drag interaction to allow a new way to unlock your phone. Wirelock was developed in unity as a unity 2D project, where all the animations and scripts are posted in the GitHub Repository. From all the concept sketches for the touch base we thought that WireLock would provide the most security, be interactive for the user, and still manage to be unique. We tried to keep practicality in mind, and design our projects around something that would actually be used.  
+Wirelock is an application to keep your phone secure. Wirelock utilizes an interactive touch and drag interaction to allow a new way to unlock your phone. Wirelock was developed in unity as a unity 2D project, where all the animations and scripts are posted in the GitHub Repository. From all the concept sketches for the touch base we thought that WireLock would provide the most security, be interactive for the user, and still manage to be unique. We tried to keep practicality in mind, and design our projects around something that would actually be used.  
 
 **Touch Input**  
-Wirelock was an idea derived from the though of how we could make a lock screen input exciting and creative. There were many ideas our group sketched out and created, and those sketches and ideas are listed below.  
+Wirelock was an idea derived from the thought of how we could make a lock screen input exciting and creative. There were many ideas our group sketched out and created, and those sketches and ideas are listed below.  
 Sketches and Write-Up For Touch Base: https://docs.google.com/document/d/1DhD1xZkL_7iO7M1fixaWaau87_Nyg8DH3IGkbAqU-2A/edit?usp=sharing  
 
 Demo: https://www.youtube.com/watch?v=y9mtUhJXLIw   
