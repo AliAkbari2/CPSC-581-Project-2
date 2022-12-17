@@ -41,7 +41,7 @@ Lock-Piece is an application to keep your phone secure and locked. To unlock the
 
 **Sensor Input**  
 Lock-Piece was an idea developed by our team trying to develop an interactive lock application for a mobile phone that would utilize the phone's sensory functions to be able to unlock the phone. Below are some concept sketches we had for review.  
-Sketches and Write-Up For Sensor Base: https://docs.google.com/document/d/1j-Jj5DYYOarcN4KN5DJNwnAea7QqfaV5Ymgd1dpR_KE/edit?usp=sharing   
+Sketches and Write-Up For Sensor Base: https://docs.google.com/document/d/1j-Jj5DYYOarcN4KN5DJNwnAea7QqfaV5Ymgd1dpR_KE/edit?usp=sharing     
 
 Demo:   
 
